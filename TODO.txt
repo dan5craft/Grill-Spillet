@@ -1,0 +1,6 @@
+-Revamped Splashscreen + Guide
+-Skraldespand ved spiseområde
+-Game over, hvis mindre end xxx
+-Spareribs mangler i guide
+-Individuel Dialog
+-Tid&Bestillingstid skal fucking fixes
